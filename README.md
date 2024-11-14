@@ -62,7 +62,7 @@ python oxipro.py
 - `oxipro.py`: Główny skrypt aplikacji.
 - `README.txt`: Instrukcja obsługi i opis projektu.
 - `requirements.txt`: Lista wymaganych pakietów Python.
-- `szablon.html`: Pusty szablon HTML do wklejenia treści artykułu.
+- `podglad.html`: Szablon HTML z treścią artykułu oraz obrazami.
 
 ## Autor
 Łukasz Fałdowski  
