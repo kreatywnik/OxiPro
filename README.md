@@ -67,3 +67,16 @@ python oxipro.py
 ## Autor
 Łukasz Fałdowski  
 Kontakt: vdzik@interia.pl
+
+## Od autora
+Chociaż częściej zajmuję się grafiką niż programowaniem, tym razem mogłem liczyć na wsparcie AI. 
+Zdaję sobie sprawę, że aplikacja wygląda dość surowo, ale celem było stworzenie jej funkcjonalnie poprawnej, a niekoniecznie atrakcyjnej wizualnie.
+
+Muszę przyznać, że miałem na wykonanie tego projektu tylko kilkanaście godzin, ponieważ nie sprawdziłem wcześniej maila. 
+Najwięcej trudności sprawiło mi zapewnienie bezpieczeństwa przy implementacji klucza API – mam nadzieję, że ostatecznie wszystko działa tak, jak powinno.
+
+Dodałem kilka opcji, które pozwalają na dostosowanie szerokości tekstu i rozmiaru grafik. Oczywiście mam wiele pomysłów na dalszy rozwój, 
+od poprawy interfejsu użytkownika po dodanie dodatkowych opcji do edycji. Jednak celem tego projektu było spełnienie wymagań w określonym czasie, 
+więc brak czasu oraz doświadczenia ograniczyły moje możliwości.
+
+Mam nadzieję, że aplikacja spełni oczekiwania. Bawcie się dobrze, trzymajcie ciepło i bądźcie kreatywni! Wszelki feedback jak zawsze mile widziany.
